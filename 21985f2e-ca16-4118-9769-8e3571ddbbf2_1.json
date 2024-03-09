@@ -1,0 +1,695 @@
+{
+    "metadata": [],
+    "pages": [
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 1,
+            "elements": [
+                {
+                    "id": 10829,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 146.41, "w": 418.64, "h": 62.79 },
+                    "content": [
+                        "2024 New Grads - Frequently Asked Questions\nThis document is for incoming 2024 Netflix New Grads only. Please do not share this\ndocument. If you have a question that is not addressed here, please reach out to\nnewgrads@netflix.com."
+                    ]
+                },
+                {
+                    "id": 10836,
+                    "type": "paragraph",
+                    "properties": { "order": 4 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 230.43, "w": 120.83, "h": 11 },
+                    "content": ["Updated: January 2024"]
+                },
+                {
+                    "id": 10830,
+                    "type": "paragraph",
+                    "properties": { "order": 5 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 278.89, "w": 103.13, "h": 97.39 },
+                    "content": [
+                        "Jump to:\nTeam Matching\nRelocation\nBenefits\nOnboarding\nImmigration Support\nMisc."
+                    ]
+                },
+                {
+                    "id": 10831,
+                    "type": "paragraph",
+                    "properties": { "order": 12 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 400.8, "w": 455.13, "h": 77.24 },
+                    "content": [
+                        "Team Matching [Engineering New Grads only]\nWhen will the team matching process start?\nYou can expect to receive a team-matching intake form from our Emerging Talent Programs\nteam in April 2024 to kick off this process. You will have about two weeks upon receiving to\ncomplete the team-matching intake form with your previous experiences and preferences."
+                    ]
+                },
+                {
+                    "id": 10832,
+                    "type": "paragraph",
+                    "properties": { "order": 17 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 499.34, "w": 465.4, "h": 59.46 },
+                    "content": [
+                        "What can I expect for the team matching process?\nOver the month of April, our team will work closely with managers and teams ready to\nwelcome you to review the submissions of your survey and make the best match based on the\nintersection of what our teams need and where you are best suited to contribute."
+                    ]
+                },
+                {
+                    "id": 10833,
+                    "type": "paragraph",
+                    "properties": { "order": 21 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 580.11, "w": 271.02, "h": 27.15 },
+                    "content": [
+                        "When will I know what team I have been matched to?\nWe will communicate your match in May."
+                    ]
+                },
+                {
+                    "id": 10834,
+                    "type": "paragraph",
+                    "properties": { "order": 23 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 628.58, "w": 459.28, "h": 59.46 },
+                    "content": [
+                        "Where can I ask questions about team matching?\nWe will host a Team Matching AMA (ask me anything) call for our engineering new grads and\nthe Emerging Talent team in April. From there you are welcome to reach out to the Emerging\nTalent team with any additional questions."
+                    ]
+                },
+                {
+                    "id": 10835,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 27,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["1"]
+                },
+                {
+                    "id": 1356,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0067.png",
+                    "refId": "R23",
+                    "xObjId": "67",
+                    "xObjExt": "png"
+                }
+            ]
+        },
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 2,
+            "elements": [
+                {
+                    "id": 10837,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 145.1, "w": 378, "h": 28.78 },
+                    "content": [
+                        "Relocation\nPlease view the New Grad Relocation Coverage summary for detailed FAQs."
+                    ]
+                },
+                {
+                    "id": 10838,
+                    "type": "paragraph",
+                    "properties": { "order": 2 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 195.18, "w": 465.03, "h": 59.54 },
+                    "content": [
+                        "When will I be contacted by Aires to begin planning for relocation?\nJanuary 2024, if you have not been in touch with your assigned relocation partner from Aires\nby February, please reach out to us at newgrads@netflix.com to check the status. Psst..check\nyour spam folder."
+                    ]
+                },
+                {
+                    "id": 10839,
+                    "type": "paragraph",
+                    "properties": { "order": 6 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 275.95, "w": 449.35, "h": 43.31 },
+                    "content": [
+                        "When will I be able to relocate?\nOnce you connect with your relocation partner at Aires, you can work together to plan your\ntimeline for relocating to your assigned office location."
+                    ]
+                },
+                {
+                    "id": 10840,
+                    "type": "paragraph",
+                    "properties": { "order": 9 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 341.89, "w": 463.79, "h": 109.55 },
+                    "content": [
+                        "Commuting\nCarpool\nOn your first day, once your Netflix email address is active, you will have access to our\nemployee transit dashboard. There, you\u2019ll be able to view available carpools with other Netflix\nemployees. If you are planning to regularly use the carpool option, we recommend that you\ntake Uber/Lyft to work on your first day and set up your carpool once you have login access\n(Day 1)."
+                    ]
+                },
+                {
+                    "id": 10841,
+                    "type": "paragraph",
+                    "properties": { "order": 16 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 472.74, "w": 462.93, "h": 59.46 },
+                    "content": [
+                        "Bike (Los Gatos)\nThere is a secured bike cage located on the first floor of the parking garage behind Building F\nwhich features over 55 racks for daily storage, cubbies for equipment and a repair station and\npump! Bike cages are accessible via your building access fob."
+                    ]
+                },
+                {
+                    "id": 10842,
+                    "type": "paragraph",
+                    "properties": { "order": 20 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 553.51, "w": 460.05, "h": 75.62 },
+                    "content": [
+                        "Day Use Only: There are red NetBikes located around campus and in the bike cage. These\nbikes are a great option for traveling between buildings or even for taking a relaxing break\nfrom the office and riding along the Los Gatos Creek Trail. The trail is accessible behind the\nparking garage behind D/E. The Los Gatos Creek Trail offers a 2.5 mile bike ride to Campbell\nPark! Please review this FAQ doc for tips and hints for using our NetBikes!"
+                    ]
+                },
+                {
+                    "id": 10843,
+                    "type": "paragraph",
+                    "properties": { "order": 25 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 650.43, "w": 152.73, "h": 59.46 },
+                    "content": [
+                        "Bike Rental Recommendations\nSummit Bicycles\nREI\nSports Basement"
+                    ]
+                },
+                {
+                    "id": 10844,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 29,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["2"]
+                },
+                {
+                    "id": 3069,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0076.png",
+                    "refId": "R40",
+                    "xObjId": "76",
+                    "xObjExt": "png"
+                }
+            ]
+        },
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 3,
+            "elements": [
+                {
+                    "id": 10845,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 159.94, "w": 451.43, "h": 91.77 },
+                    "content": [
+                        "Rental Car\nIf you\u2019d like to rent a car, we have two options with discounted rates available.\nEnterprise\nHertz (Use the discount code 2205104 when booking)\nPlease note: Rental insurance is not covered by Netflix and you will need to show your offer\nletter when you pick up the car, or any proof of employment."
+                    ]
+                },
+                {
+                    "id": 10846,
+                    "type": "paragraph",
+                    "properties": { "order": 6 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 273.02, "w": 466.26, "h": 140.23 },
+                    "content": [
+                        "Netflix's Work Not Drive Program\nYou will learn more about this during your first week. Netflix will pay the fares for full time\nemployees who are working while taking a rideshare service (Uber, Grab, Lyft or other service)\nto travel between your home and your Netflix office. The intention is to give you some extra\ntime in your day to get work done when you'd otherwise be driving/biking/commuting. If you\nare not working in the car, the fare should be a personal expense. Although we do not put\nlimits on how often you can use this service, we trust that you will use good judgment to rely\non this program in a means that is best for Netflix. Work not Drive is a productivity benefit and\nnot a commuter benefit."
+                    ]
+                },
+                {
+                    "id": 10847,
+                    "type": "paragraph",
+                    "properties": { "order": 15 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 434.56, "w": 466.89, "h": 91.77 },
+                    "content": [
+                        "Public Transit (LA)\nPublic transportation options are available in Hollywood and throughout the LA area. This\nincludes bus lines that run down Sunset Blvd and the B (Red) subway line on Hollywood Blvd.\nFree transit passes are available through Netflix and can be requested on the employee transit\ndashboard. Please see here for more information on the transit systems covered under this\nmetro pass."
+                    ]
+                },
+                {
+                    "id": 10848,
+                    "type": "paragraph",
+                    "properties": { "order": 21 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 547.64, "w": 447.13, "h": 107.93 },
+                    "content": [
+                        "Driving / Office Addresses (LA)\nParking at the office does come at a per vehicle cost to Netflix. We recommend using the\nabove transportation modes if you are staying in Hollywood. If you do need to drive please\nreach out to eta-la@netflix.com.\n\u25cf\nICON/CUE: 1455 N Van Ness Ave Los Angeles, CA 90028\n\u25cf\nEPIC: 5901 Sunset Blvd Los Angeles, CA 90028\n\u25cf\nNetflix on Vine: 1341 Vine Street Los Angeles, CA 90028"
+                    ]
+                },
+                {
+                    "id": 10849,
+                    "type": "paragraph",
+                    "properties": { "order": 31 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 678.18, "w": 461.09, "h": 44.93 },
+                    "content": [
+                        "Benefits\nYou can view our current benefits offerings on the Netflix Candidate Benefits website prior to\nyour first day of employment."
+                    ]
+                },
+                {
+                    "id": 10850,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 34,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["3"]
+                },
+                {
+                    "id": 5033,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0078.png",
+                    "refId": "R55",
+                    "xObjId": "78",
+                    "xObjExt": "png"
+                }
+            ]
+        },
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 4,
+            "elements": [
+                {
+                    "id": 10851,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 159.94, "w": 465.47, "h": 107.92 },
+                    "content": [
+                        "When do I get to make my elections for benefits?\nDuring your first two weeks at Netflix, you will participate in our New Employee College (NEC)\nwhere you will learn all the information about benefit options, timelines and important dates to\nmake selections. For example, you will be able to enroll in the following benefits in Workday\nwithin 30 days of your start date: Health Benefits (including Medical, Dental, Vision), Flexible\nSpending Accounts (FSAs), and Health Savings Account (HSA), as well as make your\nselections for the Stock Option Program (SOP.)"
+                    ]
+                },
+                {
+                    "id": 10852,
+                    "type": "paragraph",
+                    "properties": { "order": 7 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 289.17, "w": 460.69, "h": 107.93 },
+                    "content": [
+                        "When will my health coverage begin?\nYour health coverage is retroactive to your hire date. Insurance cards will arrive at your home\naddress 2\u20133 weeks after enrolling in Workday. If you need to show proof of coverage before\nyour cards are created, you can reach out to Health Equity directly after your first day. Kaiser\nmembers can use the \"Believe Me Policy\" this will allow you to schedule an appointment and\nsee the doctor if you tell them your enrollment is in process. You have 30 days to show proof\nof enrollment. Read more about our health plans here."
+                    ]
+                },
+                {
+                    "id": 10853,
+                    "type": "paragraph",
+                    "properties": { "order": 14 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 418.4, "w": 463.33, "h": 91.77 },
+                    "content": [
+                        "How do I enroll in the 401k program?\nYou will be able to enroll in the 401(k) Plan after 30 days of employment at 401k.com. Fidelity\nwill send you an email when you're eligible to enroll in the 401(k) Plan. You can enroll anytime\nafter 30 days of employment, and you can change your contributions at any time. Depending\non when you enroll, it may take 1 - 2 pay periods to go into effect. Read more about the SOP\nprogram here."
+                    ]
+                },
+                {
+                    "id": 10854,
+                    "type": "paragraph",
+                    "properties": { "order": 20 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 531.48, "w": 460.71, "h": 43.31 },
+                    "content": [
+                        "What is the vacation policy at Netflix?\nAs a salaried employee, you have flexible paid time off. When you need time away, just let\nothers know where you are and how you're balancing work. Read more about our policy here."
+                    ]
+                },
+                {
+                    "id": 10855,
+                    "type": "paragraph",
+                    "properties": { "order": 23 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 596.1, "w": 464.83, "h": 91.77 },
+                    "content": [
+                        "Where can I find more information about the Netflix shuttles?\nIn our Los Angeles and Los Gatos offices, shuttles are available for your daily commute to and\nfrom the office. During your onboarding and New Employee College, you\u2019ll have access to the\nshuttle maps, schedules and detailed information to plan your commute if you intend to utilize\nthe shuttle services. In addition, you\u2019ll learn that our shuttles offer WiFi, bike storage and an\napp you can download to track your specific bus route and real-time location."
+                    ]
+                },
+                {
+                    "id": 10856,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 29,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["4"]
+                },
+                {
+                    "id": 7323,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0084.png",
+                    "refId": "R69",
+                    "xObjId": "84",
+                    "xObjExt": "png"
+                }
+            ]
+        },
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 5,
+            "elements": [
+                {
+                    "id": 10857,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 145.1, "w": 465.36, "h": 93.39 },
+                    "content": [
+                        "Onboarding\nCan I change my start date?\nWe will review every start date change request on a case-by-case basis, but generally we are\nnot allowing start date changes. If you have an extenuating circumstance, such as changes to\nyour graduation plans or immigration-related timeline restrictions, we will be able to work with\nyou directly to find a solution. Please reach out to your recruiter to discuss further."
+                    ]
+                },
+                {
+                    "id": 10858,
+                    "type": "paragraph",
+                    "properties": { "order": 6 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 259.8, "w": 440.48, "h": 75.62 },
+                    "content": [
+                        "Will I be able to start working remotely?\nAt this time, we do not allow for any remote starts for our new grads. There is important\nprogramming that requires in-person attendance during your first four weeks. You will be\nexpected to work hybrid (in-office/WFH) over the first year of the program under the\nguidance of your manager and team."
+                    ]
+                },
+                {
+                    "id": 10859,
+                    "type": "paragraph",
+                    "properties": { "order": 11 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 356.73, "w": 432.82, "h": 43.31 },
+                    "content": [
+                        "When will I receive more information about my onboarding?\nYou will get an email from us roughly 10 days before you start outlining all of your Day 1\nlogistics and more."
+                    ]
+                },
+                {
+                    "id": 10860,
+                    "type": "paragraph",
+                    "properties": { "order": 14 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 422.66, "w": 463.44, "h": 77.24 },
+                    "content": [
+                        "Immigration Support\nIf you require immigration assistance to work full-time, you will be connected with a mobility\nspecialist at our partner Fragomen shortly after signing your offer letter. You should expect all\ncommunications regarding your individual needs to be discussed with this specialist. If you\nhave not been connected with Fragomen, please reach out to your recruiter immediately."
+                    ]
+                },
+                {
+                    "id": 10861,
+                    "type": "paragraph",
+                    "properties": { "order": 19 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 521.2, "w": 297.02, "h": 24.3 },
+                    "content": [
+                        "Review the New Grad Immigration and Mobility FAQs below\nNew Grad Immigration & Mobility FAQs (External).pdf"
+                    ]
+                },
+                {
+                    "id": 10862,
+                    "type": "paragraph",
+                    "properties": { "order": 21 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 571.76, "w": 228.05, "h": 44.93 },
+                    "content": [
+                        "Miscellaneous\nHow many New Grads are in the 2024 class?\n145!"
+                    ]
+                },
+                {
+                    "id": 10863,
+                    "type": "paragraph",
+                    "properties": { "order": 24 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 638, "w": 443.21, "h": 43.31 },
+                    "content": [
+                        "Will there be New Grad socials/activities so we can meet other new grads?\nAbsolutely. There will be organized social events and professional development sessions.\nStarting your first week!"
+                    ]
+                },
+                {
+                    "id": 10864,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 27,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["5"]
+                },
+                {
+                    "id": 8996,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0080.png",
+                    "refId": "R82",
+                    "xObjId": "80",
+                    "xObjExt": "png"
+                }
+            ]
+        },
+        {
+            "margins": { "top": 117, "left": 71, "bottom": 711, "right": 542 },
+            "box": { "l": 0, "t": 0, "w": 612, "h": 792 },
+            "rotation": {
+                "degrees": 0,
+                "origin": { "x": 0, "y": 0 },
+                "translation": { "x": 0, "y": 0 }
+            },
+            "pageNumber": 6,
+            "elements": [
+                {
+                    "id": 10865,
+                    "type": "paragraph",
+                    "properties": { "order": 0 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 143.78, "w": 462.59, "h": 43.31 },
+                    "content": [
+                        "Is there a gym in the LA or LG office?\nWe do not have gyms in any of our LA or LG offices. But we do have Employee Driven Fitness\nDiscounts for local gyms and studios you can access on your first day."
+                    ]
+                },
+                {
+                    "id": 10866,
+                    "type": "paragraph",
+                    "properties": { "order": 3 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 208.4, "w": 242.94, "h": 27.15 },
+                    "content": [
+                        "When will you get access to your Netflix email?\nDay 1"
+                    ]
+                },
+                {
+                    "id": 10867,
+                    "type": "paragraph",
+                    "properties": { "order": 5 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 256.86, "w": 426.31, "h": 43.31 },
+                    "content": [
+                        "Is there free parking at our LA and LG offices?\nYe. We additionally have Chargepoint as well as Tesla chargers in both offices (free for\nemployees)."
+                    ]
+                },
+                {
+                    "id": 10868,
+                    "type": "paragraph",
+                    "properties": { "order": 8 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 321.48, "w": 447.93, "h": 43.31 },
+                    "content": [
+                        "When should you expect an email with onboarding information (company laptop, email,\netc.)?\nNo earlier than 30 days prior to your start date."
+                    ]
+                },
+                {
+                    "id": 10869,
+                    "type": "paragraph",
+                    "properties": { "order": 11 },
+                    "metadata": [],
+                    "box": { "l": 72, "t": 386.1, "w": 358.36, "h": 27.15 },
+                    "content": [
+                        "Who do I reach out to if I have a general question not addressed here?\nPlease email our programs team newgrads@netflix.com"
+                    ]
+                },
+                {
+                    "id": 10870,
+                    "type": "paragraph",
+                    "properties": {
+                        "order": 13,
+                        "isFooter": true,
+                        "isPageNumber": true
+                    },
+                    "metadata": [],
+                    "box": { "l": 533.27, "t": 747.07, "w": 6.73, "h": 11 },
+                    "content": ["6"]
+                },
+                {
+                    "id": 9667,
+                    "type": "image",
+                    "properties": {},
+                    "metadata": [],
+                    "box": { "l": -30.51, "t": -97, "w": 332.55, "h": 221.65 },
+                    "src": "/tmp/810e09cd5d1f5e6f8b749a9c007aac/img-0086.png",
+                    "refId": "R91",
+                    "xObjId": "86",
+                    "xObjExt": "png"
+                }
+            ]
+        }
+    ],
+    "fonts": [
+        {
+            "id": 1,
+            "name": "EJHAYT+NetflixSans-Bold",
+            "size": 15,
+            "weight": "bold",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#000000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 2,
+            "name": "UPKTOR+NetflixSans-Italic",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": true,
+            "isUnderline": false,
+            "color": "#000000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 3,
+            "name": "UPKTOR+NetflixSans-Italic",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": true,
+            "isUnderline": false,
+            "color": "#1155cd",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 4,
+            "name": "EJHAYT+NetflixSans-Bold",
+            "size": 11,
+            "weight": "bold",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#000000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 5,
+            "name": "JDYYND+NetflixSans-Regular",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#000000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 6,
+            "name": "JDYYND+NetflixSans-Regular",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#1155cd",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 7,
+            "name": "EJHAYT+NetflixSans-Bold",
+            "size": 13,
+            "weight": "bold",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#cd0000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 8,
+            "name": "JDYYND+NetflixSans-Regular",
+            "size": 13,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#cd0000",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 9,
+            "name": "EJHAYT+NetflixSans-Bold",
+            "size": 11,
+            "weight": "bold",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#222222",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 10,
+            "name": "JDYYND+NetflixSans-Regular",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#222222",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 11,
+            "name": "MOWBIO+ArialMT",
+            "size": 11,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#444444",
+            "sizeUnit": "px"
+        },
+        {
+            "id": 12,
+            "name": "MOWBIO+ArialMT",
+            "size": 11.5,
+            "weight": "medium",
+            "isItalic": false,
+            "isUnderline": false,
+            "color": "#000000",
+            "sizeUnit": "px"
+        }
+    ]
+}
